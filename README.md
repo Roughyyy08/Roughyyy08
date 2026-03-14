@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Roughyyy08&color=blue)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Building+Startup+MVPs" />
 </p>
